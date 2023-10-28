@@ -1,0 +1,23 @@
+Yanis FARHAT
+Benjamin CLENE
+Theo BONDI
+Mael CONAN
+
+3 fichier:
+    - cpu.cpp
+    - gpu.cu
+    - gpu_opti.cu
+
+cpu.cpp: Code de la pipeline
+
+gpu.cu: 1er code gpu du projet
+
+gpu_opti.cu: Optimisation du code
+
+
+prof/: Librairie de Monsieur Fabrizio pour manipuler les images.
+
+Makefile
+
+t.sh: Shell Script pour transformer une video en images png puis en tga.
+    Les images sont envoyer dans /tmp pour ne pas prendre de la place.
