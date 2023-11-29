@@ -1,4 +1,4 @@
-# Projet GPGPU - Séparation Fond / Objets Mobiles dans des Vidéos
+# 🖥️ Projet GPGPU - Séparation Fond / Objets Mobiles dans des Vidéos
 
 ## Contexte du Projet
 Ce projet se concentre sur l'optimisation des opérations de traitement vidéo sur GPU. L'objectif est d'utiliser les capacités des GPU pour séparer efficacement les objets mobiles du fond dans des séquences vidéo.
